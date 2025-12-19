@@ -1,0 +1,16 @@
+{
+  "name": "minifigure-scanner",
+  "version": "1.0.0",
+  "description": "Web-based Brickognize client to identify LEGO minifigures from a single photo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No automated tests configured for this static site.\""
+  },
+  "keywords": [
+    "lego",
+    "minifigure",
+    "brickognize"
+  ],
+  "author": "",
+  "license": "ISC"
+}
